@@ -1,6 +1,6 @@
 package OOPslide7;
 
-public class BT1
+public class BT1Slide7
 {
     public static void main(String[] args) {
         TruongPhong siu = new TruongPhong("Ronaldo",5000000,4.0,2000000,5);

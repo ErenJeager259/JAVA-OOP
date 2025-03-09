@@ -2,7 +2,7 @@ package OOPslide7;
 
 import java.nio.channels.ClosedByInterruptException;
 
-public class BT2 {
+public class BT2Slide7 {
     public static void main(String[] args) {
    GiamDoc gd = new GiamDoc("Viet Anh",3000000,3.0,1000000,20000000);
    gd.inTTin();

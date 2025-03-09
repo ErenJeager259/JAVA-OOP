@@ -1,6 +1,6 @@
 package OOPslide7;
 
-public class BT3 {
+public class BT3Slide7 {
     public static void main(String[] args) {
 
     }
